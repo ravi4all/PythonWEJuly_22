@@ -1,0 +1,35 @@
+Data Collections
+- Strings
+  - strings contains text, word, letter, symbol
+  - represented by "...", '...', '''...''', """..."""
+  - strings are immutable (which cannot be modified)
+- List
+  - collection of any type of data
+  - list are represented by [12,4,3,5,7,'hi', 'hello', 10.45, 44.55]
+- Tuples
+  - similar to list but immutable
+  - represented by (...)
+- Dictionary
+  - collection of data in key and value pair
+  - represented by {key : value, key : value...}
+- Set & Frozen Set
+  - collection of unique and unordered data
+  - represented by {4,3,3,6}
+  - frozen set are immutable version of set
+===============================================
+Strings
+- internally strings are nothing but character array
+
+- Indexing - same for string, list and tuples
+- Slicing      - same for string, list and tuples
+- Methods
+
+
+
+
+
+
+
+
+
+

@@ -24,12 +24,13 @@ Strings
 - Slicing      - same for string, list and tuples
 - Methods
 
+===============================================
+List
+- Indexing and Slicing
+- Methods
+- Iterate List
+- List Comprehension : Shorthand to create a list
+- Nested List
 
-
-
-
-
-
-
-
-
+===============================================
+Tuples

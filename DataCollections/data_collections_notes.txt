@@ -34,3 +34,11 @@ List
 
 ===============================================
 Tuples
+
+===============================================
+Dictionary
+- Indexing and Slicing is not allowed
+- Methods of Dictionary
+- How to Iterate Dictionary
+- Dictionary Comprehension
+- List inside Dictionary / Dictionary inside List

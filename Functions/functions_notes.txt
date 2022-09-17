@@ -1,0 +1,21 @@
+Functions
+- reusable piece of code
+
+Functions are divided into parts
+- function definition
+- function call
+
+Functions are of two type
+- pre-defined functions - print, input, range, type, max...
+- user defined functions - will be defined by user using def keyword
+
+Scope of variables
+- Local
+- Global
+
+Types of Arguments in a function
+- Positional / Required
+- Keyword
+- Default
+- Variable Length
+- Keyword Variable Length

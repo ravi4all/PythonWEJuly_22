@@ -19,3 +19,17 @@ Types of Arguments in a function
 - Default
 - Variable Length
 - Keyword Variable Length
+
+Menu Driven Program in Python
+
+Deep Dive into Functional Programming
+- return statement
+- yield - generator
+  - generators are type of iterators
+- nested functions
+- filter, map
+- decorators
+
+iterable / iterator
+
+Tic Tac Toe Using Python

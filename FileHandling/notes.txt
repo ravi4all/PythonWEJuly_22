@@ -1,0 +1,20 @@
+File Handling
+
+- Read
+- Write
+
+2 types of file
+- text
+- byte/binary   - image, audio, video...
+
+File Handling Operations
+- File Open
+- File Read/Write
+- File Close
+
+Modes
+read - r/rb/r+
+write - w/wb/w+/x
+append - a/ab/a+
+
+open("file_path", "mode='r'")

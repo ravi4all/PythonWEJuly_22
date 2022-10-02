@@ -1,0 +1,9 @@
+Exception Handling
+
+Exception - abnormal condition
+
+try			- contains logic
+except	- contains exception handling code
+else		- either except block execute or else block execute
+finally	- it will always execute
+raise		- used to raise user-defined exceptions
